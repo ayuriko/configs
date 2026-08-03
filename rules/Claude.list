@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,clau.de
 
 # CDN 和静态资源
 DOMAIN,servd-anthropic-website.b-cdn.net
